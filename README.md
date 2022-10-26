@@ -29,7 +29,16 @@ Analysing movement data from pendants to assess people with Parkinsons while the
 Provide reports, data cleansing, data assurance for the data underpinning the £35M p.a. waste contract
 (This was a part-time job while I took my masters)
 
-
 **Technical Project Manager/Scrum Master** @ American Express, Sussex, UK _(Jan 2015 - June 2016)
+
+Providing technical project support and acting as scrum master for a team maintaining and developing a multilingual B2B website
+
+## Education
+
+- 2017 MSc Data Science for Health and Biomedical Research, UCL, London
+- 1998 Bsc Maths and Computer Science, Open University 
+<br/>
+- 2018 Mathematical Statistics - Open University Module
+
 
 
