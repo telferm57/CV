@@ -16,7 +16,7 @@ Working in a cross-functional scrum team to produce performant, fully tested pac
 
 **Python Developer/Data Scientist** @ UCL, London, UK _(Sep 2017 - March 2018)
 
-Analysing movement data from pendents to assess people with Parkinsons while they are at home.
+Analysing movement data from pendants to assess people with Parkinsons while they are at home.
 
 - cleanse signal data, analyse for activities such as standup/sit down transitions and walking utilising various algorithms 
 - produce visualisations of activity patterns 
@@ -26,10 +26,10 @@ Analysing movement data from pendents to assess people with Parkinsons while the
 
 **Data Analyst** @East Sussex County Council _(June 2016 - June 2017)
 
-Provide reports, data cleansing, data assurance for the data underpinning the £35m p.a. waste contract
+Provide reports, data cleansing, data assurance for the data underpinning the £35M p.a. waste contract
 (This was a part-time job while I took my masters)
 
 
-**Technical Project Manager/Scrum Master** @ American Express, Sussex, UK _(June 201 - June 2018)
+**Technical Project Manager/Scrum Master** @ American Express, Sussex, UK _(Jan 2015 - June 2016)
 
 
