@@ -38,6 +38,7 @@ Providing technical project support and acting as scrum master for a team mainta
 - 2017 MSc Data Science for Health and Biomedical Research, UCL, London
 - 1998 Bsc Maths and Computer Science, Open University 
 <br/>
+
 - 2018 Mathematical Statistics - Open University Module
 
 
