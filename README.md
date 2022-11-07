@@ -5,12 +5,15 @@
 
 **Python Developer/ Data Scientist**  @ IQVIA, Brighton, UK _(March 2018 - July 2022)_
 
-Working in a cross-functional scrum team to produce performant, fully tested packages to add functionality to the IQVIA health data analysis suite.      
+Working in a cross-functional scrum team to produce performant, fully tested python packages to add functionality to the IQVIA health data analysis suite.      
 
 - Producing packages to provide statistical methods such as Kaplan-Meier, Cox Proportional Hazards, regressions and associated assumption checking and visualisations within the corporate analysis tool.
+- implementation of propensty score matching algorithms to run on millions of patients in a timely manner
+- Generating Cohorts and associated health data (HES, Primary Care or prescription data) from datasets from many countries
 - Work on projects with clients to enable them to achieve their research objectives
 - Performance tuning  to ensure completion in a timely manner when processing large datasets (up to 100M rows)
-- **Technologies Used**: Pandas, Numpy, Plotly, Pytest, lineprofiler, Numba, Sphinx, statsmodels, scipy
+- peer review colleagues work
+- **Technologies Used**: Pandas, Numpy, Plotly, Pytest, lineprofiler, Numba, Sphinx, statsmodels, scipy, Lifelines
 
 ## Previous Experience
 
@@ -20,7 +23,7 @@ Analysing movement data from pendants to assess people with Parkinsons while the
 
 - cleanse signal data, analyse for activities such as standup/sit down transitions and walking utilising various algorithms 
 - produce visualisations of activity patterns 
-- **Technologies Used**: Python, Pandas, Matplotlib
+- **Technologies Used**: Python, Pandas, Numpy, Matplotlib
 
 <br/>
 
