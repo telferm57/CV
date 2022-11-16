@@ -8,18 +8,18 @@
 Working in a cross-functional scrum team to produce performant, fully tested python packages to add functionality to the IQVIA health data analysis suite.      
 
 - Producing packages to provide statistical methods such as Kaplan-Meier, Cox Proportional Hazards, regressions and associated assumption checking and visualisations within the corporate analysis tool.
-- implementation of propensty score matching algorithms to run on millions of patients in a timely manner
+- Authoring and implementation of propensity score matching algorithms to run on millions of patients in a timely manner
 - Generating cohorts and associated health data (HES, Primary Care or prescription data) from datasets from many countries
 - Work on projects with clients to enable them to achieve their research objectives
-- Performance tuning  to ensure completion in a timely manner when processing large datasets (up to 100M rows)
-- peer review colleagues work
+- Performance tuning to ensure completion in a timely manner when processing large datasets (up to 100M rows)
+- Peer review colleagues' work
 - **Technologies Used**: Pandas, Numpy, Plotly, Pytest, lineprofiler, Numba, Sphinx, statsmodels, scipy, Lifelines
 
 ## Previous Experience
 
 **Python Developer/Data Scientist** @ UCL, London, UK _(Sep 2017 - March 2018)
 
-Analysing movement data from pendants to assess people with Parkinsons while they are at home.
+Analysing movement data from pendants to assess People with Parkinsons on a home setting.
 
 - cleanse signal data, analyse for activities such as standup/sit down transitions and walking utilising various algorithms 
 - produce visualisations of activity patterns 
@@ -36,11 +36,12 @@ Provide reports, data cleansing, data assurance for the data underpinning the £
 
 Providing technical project support and acting as scrum master for a team maintaining and developing a multilingual B2B website
 
-**Technial Architect/Project Manager** @ Crawley Borough Council (2005-2016)
+**Technical Architect/Project Manager** @ Crawley Borough Council (2005-2016)
 
-- Designing and managing the development of a system for managing unstructured, linked cases, involving internal staff and external providers, for use throughout the authority. This entailed selection of appropriate development tools, (Redmine, Eclipse, Hibernate, Struts, Dojo),
--  designing and writing the front end (an OPA) in JavaScript (using the dojo js framework)
--  migration to enterpise document management
+- Designing and managing the development of a system for managing unstructured, linked cases, involving internal staff and external providers, for use throughout the authority. This entailed:
+    - selection of appropriate development tools, (Redmine, Eclipse, Hibernate, Struts, Dojo),
+    - designing and writing the front end (an OPA) in JavaScript (using the dojo js framework)
+    - migration of content to enterpise document management system
 
 ## Education
 
