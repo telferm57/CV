@@ -17,9 +17,9 @@ Working in a cross-functional scrum team to produce performant, fully tested pyt
 
 ## Previous Experience
 
-**Python Developer/Data Scientist** @ UCL, London, UK _(Sep 2017 - March 2018)
+**Python Developer/Data Scientist** @ UCL, London, UK _(Sep 2017 - March 2018)_
 
-Analysing movement data from pendants to assess People with Parkinsons on a home setting.
+Analysing movement data from pendants to assess People with Parkinsons in their home setting.
 
 - cleanse signal data, analyse for activities such as standup/sit down transitions and walking utilising various algorithms 
 - produce visualisations of activity patterns 
@@ -27,7 +27,7 @@ Analysing movement data from pendants to assess People with Parkinsons on a home
 
 <br/>
 
-**Data Analyst** @East Sussex County Council _(June 2016 - June 2017)
+**Data Analyst** @East Sussex County Council _(June 2016 - June 2017)_
 
 Provide reports, data cleansing, data assurance for the data underpinning the £35M p.a. waste contract
 (This was a part-time job while I took my masters in Data Science for Health and Biomedical Research at UCL)
@@ -36,7 +36,7 @@ Provide reports, data cleansing, data assurance for the data underpinning the £
 
 Providing technical project support and acting as scrum master for a team maintaining and developing a multilingual B2B website
 
-**Technical Architect/Project Manager** @ Crawley Borough Council (2005-2016)
+**Technical Architect/Project Manager** @ Crawley Borough Council _(2005-2016)_
 
 - Designing and managing the development of a system for managing unstructured, linked cases, involving internal staff and external providers, for use throughout the authority. This entailed:
     - selection of appropriate development tools, (Redmine, Eclipse, Hibernate, Struts, Dojo),
@@ -49,7 +49,7 @@ Providing technical project support and acting as scrum master for a team mainta
 - 1998 Bsc Maths and Computer Science, Open University 
 <br/>
 
-- 2018 Mathematical Statistics - Open University Module
+- 2018 Mathematical Statistics - Open University Module (level 6)
 
 
 
